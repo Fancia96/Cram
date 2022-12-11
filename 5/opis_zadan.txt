@@ -1,0 +1,23 @@
+Opis zadan:
+
+1. porownanie wine quality dataset vs siec neuronowa
+plik - data_decision_tree_wine.py
+- porownanie - WINE_QUALITY_dataset_classyfikacja_stara_wersja vs nowa_wersja.png
+
+2. CIPHAR-10 datasetm naucz siec rozpoznawac zwierzeta
+plik - ConfusionMatrix_CIPHAR10.py
+
+uczenie sieci dwoch rodzai zwierzat: ptak, jelen
+
+-wyrysowanie confusion matrix - ConfusionMatrix_animals.png
+-oraz porownanie dwoch rozmiarow sieci neuronowych (epoch1 vs epoch5) - siec_neuronowa_epoch1_vs_epoch5.png
+
+3.Fashion-MNIST dataset naucz sie rozpoznawac ubrania
+plik - fashion-mnist_neural.py
+
+uczenie sieci dwoch rodzai ubran: sweter, plaszcz - fashion-mnist_naural_network.png
+
+4. algerian forest fires dataset - uzycie sieci neuronowej
+plik - Algerian_forest_fires_dataset_neuron.py
+
+uzycie sieci neuronowej - algerian_forest_fires_siec_neuronowa.png
